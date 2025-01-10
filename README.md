@@ -1,7 +1,5 @@
 # SOC-Automation-Project
 
-Phase 1:
-
 This project was an introduction to Security Operations Center (SOC) workflows and automation, where I explored the integration of industry tools like TheHive, Wazuh, Shuffle Automation, and Docker. The primary goal was to automate threat detection and streamline alerting processes to ensure timely and efficient response by SOC analysts. I configured Wazuh for threat detection and integrated it with TheHive to enable centralized case management. Using Shuffle Automation, I built workflows to automatically trigger and forward alerts to SOC analysts when specific threats were detected.
 
 
