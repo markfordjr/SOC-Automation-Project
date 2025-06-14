@@ -32,7 +32,7 @@ It integrates **Wazuh** for agent-based monitoring, **TheHive** for case managem
 
 ## ⚙️ Architecture Diagram
 
-*Include your **Formatted‑SOC‑Automation‑Project‑Diagram.png*** here\*.
+![image](https://github.com/user-attachments/assets/d1e5469d-9390-473b-bd35-05072ac15f49)
 
 ---
 
@@ -102,7 +102,7 @@ SOC-Automation-Project/
 ## 📞 Contact
 
 **Mark Ford Jr.**
-Email: *[you@example.com](mailto:you@example.com)*
+Email: *[marquzesfordjr@gmail.com](marquzesfordjr@gmail.com)*
 GitHub: [markfordjr](https://github.com/markfordjr)
 
 ---
