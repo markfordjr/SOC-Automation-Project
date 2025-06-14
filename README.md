@@ -1,6 +1,7 @@
 # SOC Automation Project
 
 **🔐 Integrated SOAR with Wazuh + TheHive + Shuffle (SOAR automation)**
+
 **Author:** Mark Ford Jr.
 
 ---
